@@ -20,5 +20,8 @@ Azure / AWS · Linux (RHEL, Debian / Ubuntu, Proxmox)
 - **[configsentry](https://github.com/shanecthomas/configsentry)**
   — config drift auditor for Linux hosts; baseline/check workflow, JSON
   output for CI (file integrity, SSH hardening, sysctl, etc.)
+- **[apt-snapshot-revert](https://github.com/shanecthomas/apt-snapshot-revert)**
+  — Atomic, tested apt package-version snapshot/rollback for Ubuntu —
+  safety guards, held-package handling, cross-generation drift recovery
 
 [LinkedIn](https://linkedin.com/in/shane-carther-thomas)
